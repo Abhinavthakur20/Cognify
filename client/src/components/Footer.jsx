@@ -25,8 +25,7 @@ const Footer = () => {
               <li><a href="#" className="hover:text-primary transition">Privacy Policy</a></li>
             </ul>
           </div>
-
-          {/* Newsletter */}
+{/* Newsletter */}
           <div>
             <h2 className="text-gray-900 font-semibold mb-4">Subscribe to our newsletter</h2>
             <p className="text-sm mb-4">Stay updated with the latest news, insights, and AI trends—delivered weekly.</p>
@@ -53,10 +52,10 @@ const Footer = () => {
       {/* Footer Bottom */}
       <div className="text-center text-xs md:text-sm mt-6 pb-6 text-gray-500">
         <p>
-          &copy; 2025 <a href="https://www.linkedin.com/in/md-sumon9897/" className="hover:text-primary">Mohammad Sumon</a>. All rights reserved.
+          &copy; 2025 <a href="https://www.linkedin.com/in/md-sumon9897/" className="hover:text-primary">Abhinav Thakur</a>. All rights reserved.
         </p>
         <p className="mt-1">
-          GitHub: <a href="https://github.com/sumu9897" className="hover:text-primary">sumu9897</a>
+          GitHub: <a href="https://github.com/sumu9897" className="hover:text-primary">Abhinavthakur20</a>
         </p>
       </div>
     </footer>
