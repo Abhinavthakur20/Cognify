@@ -25,7 +25,7 @@ const Footer = () => {
               <li><a href="#" className="hover:text-primary transition">Privacy Policy</a></li>
             </ul>
           </div>
-{/* Newsletter */}
+
           <div>
             <h2 className="text-gray-900 font-semibold mb-4">Subscribe to our newsletter</h2>
             <p className="text-sm mb-4">Stay updated with the latest news, insights, and AI trends—delivered weekly.</p>
